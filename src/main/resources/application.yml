@@ -4,7 +4,7 @@ spring:
     driver-class-name: com.mysql.jdbc.Driver
     url: jdbc:mysql://118.31.22.202:9527/vueblog?useUnicode=true&characterEncoding=utf-8&serverTimezone=GMT
     username: root
-    password: qweqwe520
+    password: root
     hikari:
       max-lifetime: 120000
 mybatis-plus:
